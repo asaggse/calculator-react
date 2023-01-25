@@ -1,5 +1,5 @@
 ## Calculator
-A simple calculator application built using React.js
+A simple calculator application built using React.
 
 ### Installation
 
